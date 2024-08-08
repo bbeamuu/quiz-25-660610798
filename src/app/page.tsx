@@ -22,12 +22,11 @@ export default function Home() {
               style={{ objectFit: "cover" }}
             />
             <span className="fw-semibold fs-5 text-white">
-              Chayanin Suatap 650610560
-            </span>
+              supakorn booranachart 660610798
           </div>
 
           <span className="text-white">
-            Quiz ง่ายจังเลยครับ ขอยาก ๆ กว่านี้ได้ไหม #261207
+            Quiz ยากจังเลยครับ ของ่ายๆ กว่านี้ได้ไหม #261207
           </span>
 
           <div className="d-flex align-items-center gap-1">
